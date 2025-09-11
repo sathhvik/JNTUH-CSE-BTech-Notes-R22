@@ -2,8 +2,7 @@
 
 Welcome to the **centralized notes hub** for B.Tech **Computer Science & Engineering (CSE)** students at **JNTUH (Jawaharlal Nehru Technological University Hyderabad)** under the **R22 curriculum**.  
 
-No more searching across multiple sources — everything you need for **exams** 📝 and **assignments** 📂 is here, well-organized 📑 and easy to access 🚀.  
-This repository contains **JNTUH CSE B.Tech Notes R22** and other **academic notes for JNTUH students**, making your study journey simpler.  
+No more searching across multiple sources — everything you need for **exams** 📝 and **assignments** 📂 is here, well-organized 📑 and easy to access 🚀. This repository contains **JNTUH CSE B.Tech Notes R22** and other **academic notes for JNTUH students**, making your study journey simpler.  
 
 ---
 
@@ -31,7 +30,6 @@ Access the official **JNTUH R22 syllabus PDF** and all the **Computer Science En
 ---
 
 ## ⭐ Star If Useful  
- If you find these **JNTUH CSE B.Tech Notes R22** and **academic notes for JNTUH students** valuable for your journey, please consider **starring this repository** ⭐  
- Your support helps other students discover these resources more easily, including **JNTUH B.Tech study materials** and **Computer Science Engineering (CSE) notes JNTUH**🙌
+ If you find these **JNTUH CSE B.Tech Notes R22** and **academic notes for JNTUH students** valuable for your journey, please consider **starring this repository** ⭐ Your support helps other students discover these resources more easily, including **JNTUH B.Tech study materials** and **Computer Science Engineering (CSE) notes JNTUH**🙌
 
  Let’s make this the **go-to resource for every JNTUH CSE student** 🎓  
