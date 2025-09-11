@@ -2,7 +2,7 @@
 
 Welcome to the **centralized notes hub** for B.Tech **Computer Science & Engineering (CSE)** students at **JNTUH (Jawaharlal Nehru Technological University Hyderabad)** under the **R22 curriculum**.  
 
-✨ No more searching across multiple sources — everything you need for **exams** 📝 and **assignments** 📂 is here, well-organized 📑 and easy to access 🚀  
+No more searching across multiple sources — everything you need for **exams** 📝 and **assignments** 📂 is here, well-organized 📑 and easy to access 🚀  
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to the **centralized notes hub** for B.Tech **Computer Science & Enginee
 
 ## ⭐ Star If Useful  
 If you find these notes and materials useful for your academic journey, please consider **starring this repository**.  
-Your support helps other students discover these resources more easily ✨  
+Your support helps other students discover these resources more easily 🙌   
 
 Let’s make this the **go-to resource for every JNTUH CSE student** 🎓
 
