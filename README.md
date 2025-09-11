@@ -1,4 +1,4 @@
-# 📘 JNTUH CSE B.Tech Notes (R22)
+# 📘 **JNTUH CSE B.Tech Notes (R22)**
 
 Welcome to the **centralized notes hub** for B.Tech **Computer Science & Engineering (CSE)** students at **JNTUH (Jawaharlal Nehru Technological University Hyderabad)** under the **R22 curriculum**.  
 
@@ -23,5 +23,12 @@ Welcome to the **centralized notes hub** for B.Tech **Computer Science & Enginee
 1. 🍴 Fork this repo  
 2. 📥 Add your material  
 3. 🔀 Open a pull request  
+  
+---
 
-Let’s make this the **go-to resource for every JNTUH CSE student** 🎓 
+## ⭐ Star If Useful  
+If you find these notes and materials useful for your academic journey, please consider **starring this repository**.  
+Your support helps other students discover these resources more easily ✨  
+
+Let’s make this the **go-to resource for every JNTUH CSE student** 🎓
+
